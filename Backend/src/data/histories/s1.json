@@ -1,0 +1,187 @@
+{
+  "id": "s1",
+  "history": [
+    {
+      "messageId": "da0f04e9-c599-4f4e-8372-a3faa23a351d",
+      "question": "what meaning of sales?",
+      "answer": {
+        "columns": [
+          "Region",
+          "Sales",
+          "Growth%"
+        ],
+        "rows": [
+          [
+            "North",
+            120000,
+            5.2
+          ],
+          [
+            "South",
+            90000,
+            -2.1
+          ],
+          [
+            "West",
+            75000,
+            3.5
+          ]
+        ]
+      },
+      "description": "Q1 sales summary with year-over-year growth per region.",
+      "feedback": null,
+      "timestamp": "2025-10-17T11:17:13.290Z"
+    },
+    {
+      "messageId": "b146022f-2489-41ab-92d7-47c72d8d5075",
+      "question": "give me sales summary laso",
+      "answer": {
+        "columns": [
+          "Product",
+          "Revenue",
+          "Units Sold"
+        ],
+        "rows": [
+          [
+            "Prod A",
+            50000,
+            1200
+          ],
+          [
+            "Prod B",
+            42000,
+            980
+          ],
+          [
+            "Prod C",
+            33000,
+            750
+          ]
+        ]
+      },
+      "description": "Top products in terms of revenue.",
+      "feedback": null,
+      "timestamp": "2025-10-17T11:17:24.716Z"
+    },
+    {
+      "messageId": "58ad2e0c-3389-4f0f-908d-91b034b3081a",
+      "question": "give me name of product",
+      "answer": {
+        "columns": [
+          "Month",
+          "ActiveUsers"
+        ],
+        "rows": [
+          [
+            "Jan",
+            12000
+          ],
+          [
+            "Feb",
+            13500
+          ],
+          [
+            "Mar",
+            14200
+          ]
+        ]
+      },
+      "description": "Monthly active users for the quarter.",
+      "feedback": null,
+      "timestamp": "2025-10-17T11:17:37.152Z"
+    },
+    {
+      "messageId": "6435e453-0e5e-4249-ad84-a33711dac0fd",
+      "question": "meaning of salaes",
+      "answer": {
+        "columns": [
+          "Product",
+          "Revenue",
+          "Units Sold"
+        ],
+        "rows": [
+          [
+            "Prod A",
+            50000,
+            1200
+          ],
+          [
+            "Prod B",
+            42000,
+            980
+          ],
+          [
+            "Prod C",
+            33000,
+            750
+          ]
+        ]
+      },
+      "description": "Top products in terms of revenue.",
+      "feedback": null,
+      "timestamp": "2025-10-17T11:33:25.169Z"
+    },
+    {
+      "messageId": "ac9fadba-4638-4dcc-a034-97e1e14f2bd9",
+      "question": "Full form of CSS",
+      "answer": {
+        "columns": [
+          "Product",
+          "Revenue",
+          "Units Sold"
+        ],
+        "rows": [
+          [
+            "Prod A",
+            50000,
+            1200
+          ],
+          [
+            "Prod B",
+            42000,
+            980
+          ],
+          [
+            "Prod C",
+            33000,
+            750
+          ]
+        ]
+      },
+      "description": "Top products in terms of revenue.",
+      "feedback": null,
+      "timestamp": "2025-10-17T11:55:00.573Z"
+    },
+    {
+      "messageId": "0dd5c0bd-0baa-46ee-8d67-8e0c27870c81",
+      "question": "Full form of HTML",
+      "answer": {
+        "columns": [
+          "Region",
+          "Sales",
+          "Growth%"
+        ],
+        "rows": [
+          [
+            "North",
+            120000,
+            5.2
+          ],
+          [
+            "South",
+            90000,
+            -2.1
+          ],
+          [
+            "West",
+            75000,
+            3.5
+          ]
+        ]
+      },
+      "description": "Q1 sales summary with year-over-year growth per region.",
+      "feedback": null,
+      "timestamp": "2025-10-17T11:55:28.112Z"
+    }
+  ]
+}

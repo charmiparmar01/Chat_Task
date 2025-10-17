@@ -1,0 +1,43 @@
+{
+  "responses": [
+    {
+      "id": "r1",
+      "question": "Show me Q1 sales by region",
+      "table": {
+        "columns": ["Region", "Sales", "Growth%"],
+        "rows": [
+          ["North", 120000, 5.2],
+          ["South", 90000, -2.1],
+          ["West", 75000, 3.5]
+        ]
+      },
+      "description": "Q1 sales summary with year-over-year growth per region."
+    },
+    {
+      "id": "r2",
+      "question": "Top 5 products by revenue",
+      "table": {
+        "columns": ["Product", "Revenue", "Units Sold"],
+        "rows": [
+          ["Prod A", 50000, 1200],
+          ["Prod B", 42000, 980],
+          ["Prod C", 33000, 750]
+        ]
+      },
+      "description": "Top products in terms of revenue."
+    },
+    {
+      "id": "r3",
+      "question": "Monthly active users",
+      "table": {
+        "columns": ["Month", "ActiveUsers"],
+        "rows": [
+          ["Jan", 12000],
+          ["Feb", 13500],
+          ["Mar", 14200]
+        ]
+      },
+      "description": "Monthly active users for the quarter."
+    }
+  ]
+}

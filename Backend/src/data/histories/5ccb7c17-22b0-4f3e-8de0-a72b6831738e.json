@@ -1,0 +1,206 @@
+{
+  "id": "5ccb7c17-22b0-4f3e-8de0-a72b6831738e",
+  "history": [
+    {
+      "messageId": "bc5ea69d-618f-440f-82a4-02e334cd3fd7",
+      "question": "Hello",
+      "answer": {
+        "columns": [
+          "Product",
+          "Revenue",
+          "Units Sold"
+        ],
+        "rows": [
+          [
+            "Prod A",
+            50000,
+            1200
+          ],
+          [
+            "Prod B",
+            42000,
+            980
+          ],
+          [
+            "Prod C",
+            33000,
+            750
+          ]
+        ]
+      },
+      "description": "Top products in terms of revenue.",
+      "feedback": null,
+      "timestamp": "2025-10-17T10:23:11.184Z"
+    },
+    {
+      "messageId": "2373e102-09ad-4ee6-94e0-4c4300624301",
+      "question": "good",
+      "answer": {
+        "columns": [
+          "Month",
+          "ActiveUsers"
+        ],
+        "rows": [
+          [
+            "Jan",
+            12000
+          ],
+          [
+            "Feb",
+            13500
+          ],
+          [
+            "Mar",
+            14200
+          ]
+        ]
+      },
+      "description": "Monthly active users for the quarter.",
+      "feedback": null,
+      "timestamp": "2025-10-17T10:23:14.529Z"
+    },
+    {
+      "messageId": "dace5a1c-026b-49ff-996b-70f6b7ea5db3",
+      "question": "all things fine",
+      "answer": {
+        "columns": [
+          "Region",
+          "Sales",
+          "Growth%"
+        ],
+        "rows": [
+          [
+            "North",
+            120000,
+            5.2
+          ],
+          [
+            "South",
+            90000,
+            -2.1
+          ],
+          [
+            "West",
+            75000,
+            3.5
+          ]
+        ]
+      },
+      "description": "Q1 sales summary with year-over-year growth per region.",
+      "feedback": null,
+      "timestamp": "2025-10-17T10:23:19.962Z"
+    },
+    {
+      "messageId": "d2abd4c0-5951-4848-a635-549f2d765dfe",
+      "question": "Hello",
+      "answer": {
+        "columns": [
+          "Month",
+          "ActiveUsers"
+        ],
+        "rows": [
+          [
+            "Jan",
+            12000
+          ],
+          [
+            "Feb",
+            13500
+          ],
+          [
+            "Mar",
+            14200
+          ]
+        ]
+      },
+      "description": "Monthly active users for the quarter.",
+      "feedback": null,
+      "timestamp": "2025-10-17T10:32:16.257Z"
+    },
+    {
+      "messageId": "58c543ea-d234-474a-8d0d-402b5d7f123d",
+      "question": "How are you",
+      "answer": {
+        "columns": [
+          "Month",
+          "ActiveUsers"
+        ],
+        "rows": [
+          [
+            "Jan",
+            12000
+          ],
+          [
+            "Feb",
+            13500
+          ],
+          [
+            "Mar",
+            14200
+          ]
+        ]
+      },
+      "description": "Monthly active users for the quarter.",
+      "feedback": null,
+      "timestamp": "2025-10-17T10:32:25.962Z"
+    },
+    {
+      "messageId": "12f3fbe8-ff2f-4489-8e1b-330b7323a7a3",
+      "question": "Hey",
+      "answer": {
+        "columns": [
+          "Product",
+          "Revenue",
+          "Units Sold"
+        ],
+        "rows": [
+          [
+            "Prod A",
+            50000,
+            1200
+          ],
+          [
+            "Prod B",
+            42000,
+            980
+          ],
+          [
+            "Prod C",
+            33000,
+            750
+          ]
+        ]
+      },
+      "description": "Top products in terms of revenue.",
+      "feedback": null,
+      "timestamp": "2025-10-17T10:32:58.933Z"
+    },
+    {
+      "messageId": "d07cadbd-9534-450c-b04c-a29ba4b61f0d",
+      "question": "All Good",
+      "answer": {
+        "columns": [
+          "Month",
+          "ActiveUsers"
+        ],
+        "rows": [
+          [
+            "Jan",
+            12000
+          ],
+          [
+            "Feb",
+            13500
+          ],
+          [
+            "Mar",
+            14200
+          ]
+        ]
+      },
+      "description": "Monthly active users for the quarter.",
+      "feedback": null,
+      "timestamp": "2025-10-17T10:33:12.255Z"
+    }
+  ]
+}

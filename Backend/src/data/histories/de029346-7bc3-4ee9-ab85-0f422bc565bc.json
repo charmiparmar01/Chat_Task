@@ -1,0 +1,98 @@
+{
+  "id": "de029346-7bc3-4ee9-ab85-0f422bc565bc",
+  "history": [
+    {
+      "messageId": "fbedd0fa-cbf3-425d-89cc-08cdd5abd4e1",
+      "question": "meaning of AI",
+      "answer": {
+        "columns": [
+          "Product",
+          "Revenue",
+          "Units Sold"
+        ],
+        "rows": [
+          [
+            "Prod A",
+            50000,
+            1200
+          ],
+          [
+            "Prod B",
+            42000,
+            980
+          ],
+          [
+            "Prod C",
+            33000,
+            750
+          ]
+        ]
+      },
+      "description": "Top products in terms of revenue.",
+      "feedback": null,
+      "timestamp": "2025-10-17T11:58:28.033Z"
+    },
+    {
+      "messageId": "1639e5b9-7af9-4167-9331-9993ab8fcefb",
+      "question": "Full form of AI",
+      "answer": {
+        "columns": [
+          "Region",
+          "Sales",
+          "Growth%"
+        ],
+        "rows": [
+          [
+            "North",
+            120000,
+            5.2
+          ],
+          [
+            "South",
+            90000,
+            -2.1
+          ],
+          [
+            "West",
+            75000,
+            3.5
+          ]
+        ]
+      },
+      "description": "Q1 sales summary with year-over-year growth per region.",
+      "feedback": null,
+      "timestamp": "2025-10-17T11:58:38.137Z"
+    },
+    {
+      "messageId": "d0457544-1776-40db-87ed-9376c9ef3f49",
+      "question": "What is ML",
+      "answer": {
+        "columns": [
+          "Region",
+          "Sales",
+          "Growth%"
+        ],
+        "rows": [
+          [
+            "North",
+            120000,
+            5.2
+          ],
+          [
+            "South",
+            90000,
+            -2.1
+          ],
+          [
+            "West",
+            75000,
+            3.5
+          ]
+        ]
+      },
+      "description": "Q1 sales summary with year-over-year growth per region.",
+      "feedback": null,
+      "timestamp": "2025-10-17T11:59:50.257Z"
+    }
+  ]
+}
