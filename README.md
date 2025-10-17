@@ -1,6 +1,6 @@
 # Chat Web Application
 
-A modern and responsive Chat Mock web application built with **React**, **TypeScript**, **Node.js**, **Express**, and **Tailwind CSS**.
+A modern and responsive Chat web application built with **React**, **TypeScript**, **Node.js**, **Express**, and **Tailwind CSS**.
 
 ## Installation
 
